@@ -1,0 +1,19 @@
+.search_bar_input{
+    background-color: yellow;
+    height: 50px;
+    font-size: 45px;
+    border: none;
+    border-bottom: 3px solid black;
+    margin-right : 30px;
+}
+
+.search_bar_submit{
+    background-color: black;
+    color: yellow;
+    height: 50px;
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase ;
+    width: 50px;
+    border: none;
+}

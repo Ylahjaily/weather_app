@@ -1,0 +1,31 @@
+.wrapper{
+    background-color: yellow;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.location-name{
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+
+.location-temperature{
+    font-size: 150px;
+}
+
+
+.location-details{
+    font-size:40px;
+    font-weight: 100;
+}
+
+.sub-content{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+span{
+    font-size: 60px;
+}
